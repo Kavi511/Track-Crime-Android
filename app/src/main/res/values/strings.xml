@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_solved_text">✓ SOLVED</string>
+    <string name="crime_unsolved_text">✗ UNSOLVED</string>
+    <string name="back_to_list">Back to List</string>
+    <string name="cancel">Cancel</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">SEND CRIME REPORT</string>
+    <string name="crime_call_text">Call Suspect</string>
+    <string name="crime_camera_text">Take Photo</string>
+    <string name="crime_report_subject">Crime Report</string>
+    <string name="send_report">Send Crime Report</string>
+    <string name="crime_report">%1$s\nDate: %2$s\nSolved: %3$s\nSuspect: %4$s</string>
+    <string name="crime_report_solved">Yes</string>
+    <string name="crime_report_unsolved">No</string>
+    <string name="crime_report_no_suspect">None</string>
+    <string name="delete_crime">Delete Crime</string>
+    <string name="delete_crime_title">Delete Crime Case</string>
+    <string name="delete_crime_message">Are you sure you want to delete \"%1$s\"?</string>
+    <string name="delete">Delete</string>
+    <string name="crime_deleted">Crime case deleted</string>
+</resources>
