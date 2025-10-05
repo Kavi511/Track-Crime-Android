@@ -1,4 +1,4 @@
-🚔📱 ##CriminalIntent (Android)
+ ## 🚔📱 CriminalIntent (Android)
 
 Overview 🧭
 
@@ -92,6 +92,7 @@ Notes 📝
 License 📄
 
 This project is provided for educational purposes.
+
 
 
 
